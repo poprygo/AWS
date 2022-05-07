@@ -1,0 +1,7 @@
+numpy
+json
+urllib.request
+pprint
+csv
+pandas 
+matplotlib
